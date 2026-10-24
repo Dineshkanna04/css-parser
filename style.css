@@ -1,0 +1,18 @@
+/* This is a test comment */
+
+h1 {
+    color: blue;
+    font-size: 24px;
+    text-align: center;
+}
+
+p {
+    color: gray;
+    margin: 10px;
+}
+
+.button {
+    background-color: green;
+    color: white;
+    padding: 12px;
+}
